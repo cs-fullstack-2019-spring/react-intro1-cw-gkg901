@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 
-
+//class with h2 text
 class SayHowdy extends Component{
     render(){
         return(
